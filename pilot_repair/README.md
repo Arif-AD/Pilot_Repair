@@ -1,16 +1,35 @@
 # pilot_repair
 
-A new Flutter project.
+Pilot Repair is a full-stack smartphone repair service application developed to simplify the repair service process. The system consists of a Flutter mobile application for customers and a Flutter Web dashboard for administrators, connected through a RESTful API built with Dart Frog and PostgreSQL.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+### Customer Mobile App
 
-A few resources to get you started if this is your first Flutter project:
+- User Authentication (Login & Register)
+- Edit Profile
+- Service Location Selection
+- Repair Service Booking
+- Find Nearest Technician
+- Order Status Tracking
+- Order Management (CRUD)
+- Real-time Chat
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Admin Web
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dashboard
+- User Management
+- Technician Management
+- Service Management
+- Order Management
+- Repair Status Monitoring
+
+## Tech Stack
+
+- Flutter
+- Dart
+- Dart Frog
+- PostgreSQL
+- Firebase
+- RESTful API
+- Git & GitHub
