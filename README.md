@@ -1,5 +1,7 @@
 # pilot_repair
 
+![alt text](https://github.com/Arif-AD/Pilot_Repair/blob/main/ss-pilotrepair.png?raw=true)
+
 Pilot Repair is a full-stack smartphone repair service application developed to simplify the repair service process. The system consists of a Flutter mobile application for customers and a Flutter Web dashboard for administrators, connected through a RESTful API built with Dart Frog and PostgreSQL.
 
 ## Features
