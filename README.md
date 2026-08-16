@@ -44,7 +44,7 @@ The system connects customers, technicians, and administrators through an integr
 
 <p align="center">
   <img
-    src="https://github.com/Arif-AD/Pilot_Repair/blob/main/screenshots/pilotrepair1.png?raw=true"
+    src="https://github.com/Arif-AD/Pilot_Repair/blob/main/screenshots/pilorepair1.png?raw=true"
     alt="Pilot Repair Preview"
     width="90%"
   />
