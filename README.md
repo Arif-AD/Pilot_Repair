@@ -44,9 +44,14 @@ The system connects customers, technicians, and administrators through an integr
 
 <p align="center">
   <img
-    src="https://github.com/Arif-AD/Pilot_Repair/blob/main/screenshots/pilorepair1.png?raw=true"
-    alt="Pilot Repair Preview"
-    width="90%"
+    src="./screenshots/pilotrepair1.png"
+    alt="Pilot Repair Preview 1"
+    width="45%"
+  />
+  <img
+    src="./screenshots/pilotrepair2.png"
+    alt="Pilot Repair Preview 2"
+    width="45%"
   />
 </p>
 
@@ -101,13 +106,11 @@ The system connects customers, technicians, and administrators through an integr
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ### Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
