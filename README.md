@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Arif-AD/Pilot_Repair">
-    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.arifdestianto.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Website-0B1634?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -46,17 +46,17 @@ The system connects customers, technicians, and administrators through an integr
   <img
     src="./screenshots/pilotrepair1.png"
     alt="Pilot Repair Preview 1"
-    width="500"
+    width="400"
   />
   <img
     src="./screenshots/pilotrepair2.png"
     alt="Pilot Repair Preview 2"
-    width="500"
+    width="400"
   />
   <img
     src="./screenshots/pilotrepair3.png"
     alt="Pilot Repair Preview 3"
-    width="500"
+    width="400"
   />
 </p>
 
