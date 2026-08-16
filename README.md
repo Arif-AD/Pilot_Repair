@@ -42,18 +42,31 @@ The system connects customers, technicians, and administrators through an integr
 
 ## Project Preview
 
-<p align="center">
-  <img
-    src="./screenshots/pilotrepair1.png"
-    alt="Pilot Repair Preview 1"
-    width="45%"
-  />
-  <img
-    src="./screenshots/pilotrepair2.png"
-    alt="Pilot Repair Preview 2"
-    width="45%"
-  />
-</p>
+<table>
+  <tr>
+    <td>
+      <img
+        src="./screenshots/pilotrepair1.png"
+        alt="Pilot Repair Preview 1"
+        width="280"
+      />
+    </td>
+    <td>
+      <img
+        src="./screenshots/pilotrepair2.png"
+        alt="Pilot Repair Preview 2"
+        width="280"
+      />
+    </td>
+    <td>
+      <img
+        src="./screenshots/pilotrepair3.png"
+        alt="Pilot Repair Preview 3"
+        width="280"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
